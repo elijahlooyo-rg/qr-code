@@ -9,14 +9,14 @@ main{
     justify-content: center;
     height: 100vh;
 }
-.qr-code{
+.main{
     padding: 10px;
     text-align: center;
     max-width: 320px;
     background: white;
     border-radius: 8px;
 }
-.qr-code img{
+.main img{
     width: 100%;
     border-radius: 8px;
 }
